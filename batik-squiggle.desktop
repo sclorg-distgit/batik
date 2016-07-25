@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Squiggle
+Comment=SVG browser
+Comment[fi]=SVG-selain
+Exec=squiggle
+Terminal=false
+Type=Application
+Icon=squiggle.png
+Encoding=UTF-8
+Categories=Application;Graphics;VectorGraphics;Java;X-JPackage;
+MimeType=image/svg+xml;
